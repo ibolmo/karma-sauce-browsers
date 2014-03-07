@@ -6,11 +6,7 @@ var browsers = JSON.parse(fs.readFileSync('browsers.json'));
 
 module.exports = {
 
-	parseBrowsers: function(input){
-
-	},
-
-	parsePlatforms: function(input){
+	browsers: function(){
 
 	}
 

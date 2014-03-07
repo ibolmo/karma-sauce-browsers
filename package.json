@@ -1,5 +1,5 @@
 {
-  "name": "karma-sauce-launcher-expando",
+  "name": "karma-sauce-browser-launcher",
   "version": "0.0.1",
   "description": "Helper functions to ease browser and platform selection.",
   "devDependencies": {
