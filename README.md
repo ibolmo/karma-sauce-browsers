@@ -1,4 +1,4 @@
-# karma-sauce-browser-launcher
+# karma-sauce-browsers
 
 > Build a dictionary of browsers based on user input to be used in karma-sauce-launcher.
 

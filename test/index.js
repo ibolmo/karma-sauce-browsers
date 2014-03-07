@@ -2,7 +2,7 @@
 var expect = require('expect.js');
 var expand = require('./../index.js');
 
-describe('karma-sauce-browser-launcher', function(){
+describe('karma-sauce-browsers', function(){
 
 	it('should parse latest browsers', function(){
 
