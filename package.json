@@ -1,0 +1,10 @@
+{
+  "name": "karma-sauce-launcher-expando",
+  "version": "0.0.1",
+  "description": "Helper functions to ease browser and platform selection.",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "superagent": "^0.17.0",
+    "debug": "^0.7.4"
+  }
+}
