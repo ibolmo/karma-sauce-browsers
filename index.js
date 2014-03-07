@@ -6,7 +6,11 @@ var browsers = JSON.parse(fs.readFileSync('browsers.json'));
 
 module.exports = {
 
-	browsers: function(){
+	from: function(){
+
+	},
+
+	every: function(browsers, interval){
 
 	}
 
